@@ -1,2 +1,0 @@
-# polinkalari
-psets
